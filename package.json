@@ -1,0 +1,35 @@
+{
+    "name": "youtube-id-regex",
+    "description": "Regex to extract the youtube id from given youtube url",
+    "version": "1.0.0",
+    "author": {
+        "name": "Quehnie",
+        "url": "https://github.com/Quehnie"
+    },
+    "keywords": [
+        "youtube",
+        "youtube-nocookie",
+        "youtube id",
+        "nocookie",
+        "youtu.be",
+        "youtube regex",
+        "video id",
+        "id",
+        "video",
+        "url",
+        "regex",
+        "regexp",
+        "regexps"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/quehnie/youtube-id-regex.git"
+    },
+    "license": "SEE LICENSE IN https://github.com/quehnie/youtube-regex/blob/main/LICENSE.md",
+    "dependencies": {},
+    "devDependencies": {},
+    "engines": {
+        "node": ">= 4.9.1",
+        "npm": ">= 6.14.18"
+    }
+}

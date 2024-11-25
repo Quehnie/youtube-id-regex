@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Dominik Khüny
+Copyright (c) 2024 [Quehnie](https://github.com/Quehnie)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
