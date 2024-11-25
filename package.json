@@ -2,10 +2,7 @@
     "name": "youtube-id-regex",
     "description": "Regex to extract the youtube id from given youtube url",
     "version": "1.0.0",
-    "author": {
-        "name": "Quehnie",
-        "url": "https://github.com/Quehnie"
-    },
+    "author": "Quehnie (https://github.com/Quehnie)",
     "keywords": [
         "youtube",
         "youtube-nocookie",
@@ -26,10 +23,17 @@
         "url": "git://github.com/quehnie/youtube-id-regex.git"
     },
     "license": "SEE LICENSE IN https://github.com/quehnie/youtube-regex/blob/main/LICENSE.md",
-    "dependencies": {},
     "devDependencies": {},
     "engines": {
         "node": ">= 4.9.1",
         "npm": ">= 6.14.18"
+    },
+    "bugs": {
+        "url": "https://github.com/quehnie/youtube-id-regex/issues"
+    },
+    "homepage": "https://github.com/quehnie/youtube-id-regex#readme",
+    "main": "index.js",
+    "scripts": {
+        "test": "test/script.js"
     }
 }
